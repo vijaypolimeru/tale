@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/tale.svg)](https://badge.fury.io/rb/tale)
 
-Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
+Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://vijaypolimeru.github.io/tale/).
 
 ![Tale screenshot](http://i.imgur.com/pXZrtmo.png)
 
@@ -74,7 +74,7 @@ $ bundle
 3. In `_config.yml` add these lines:
 
 ```yaml
-remote_theme: chesterhow/tale
+remote_theme: vijaypolimeru/tale
 
 permalink:    /:year-:month-:day/:title
 paginate:     5
@@ -129,4 +129,4 @@ Next, add `comments: true` to the YAML front matter of the posts which you would
 Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
 
 ## License
-See [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)
+See [LICENSE](https://github.com/vijaypolimeru/tale/blob/master/LICENSE)

@@ -18,4 +18,4 @@ By default, sticky posts are still included in the paginated posts. To exclude a
 
 ## Example
 
-See the ["Introducing Tale" post](https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md).
+See the ["Introducing Tale" post](https://github.com/vijaypolimeru/tale/blob/master/_posts/2017-03-29-introducing-tale.md).

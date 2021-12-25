@@ -20,4 +20,4 @@ This follows [Jekyll's recommended way of managing excerpts](https://jekyllrb.co
 
 ## Example
 
-See [this post](https://github.com/chesterhow/tale/blob/master/_posts/2021-04-30-managing-excerpt.md) or the ["Introducing Tale" post](https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md).
+See [this post](https://github.com/vijaypolimeru/tale/blob/master/_posts/2021-04-30-managing-excerpt.md) or the ["Introducing Tale" post](https://github.com/vijaypolimeru/tale/blob/master/_posts/2017-03-29-introducing-tale.md).

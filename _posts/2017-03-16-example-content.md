@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt orna
 - <sup>Superscript</sup>
 - <sub>Subscript</sub>
 - Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr>
-- Citation: <cite>&mdash; Chester How</cite>
+- Citation: <cite>&mdash; Vijay Polimeru</cite>
 {% endhighlight %}
 
 - **Bold**
@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt orna
 - <sup>Superscript</sup>
 - <sub>Subscript</sub>
 - Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr>
-- Citation: <cite>&mdash; Chester How</cite>
+- Citation: <cite>&mdash; Vijay Polimeru</cite>
 
 # Lists
 {% highlight markdown %}
@@ -67,10 +67,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt orna
 
 # Links
 {% highlight markdown %}
-Check out tale on [GitHub](https://github.com/chesterhow/tale).
+Check out tale on [GitHub](https://github.com/vijaypolimeru/tale).
 {% endhighlight %}
 
-Check out tale on [GitHub](https://github.com/chesterhow/tale).
+Check out tale on [GitHub](https://github.com/vijaypolimeru/tale).
 
 # Images
 {% highlight markdown %}
