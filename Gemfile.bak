@@ -7,7 +7,7 @@ source "https://rubygems.org"
 # Comment the below lines while you are using in local server
 # ---------------------------------------------------------------
 
-gemspec  # Uncomment this before commiting to git
+# gemspec  # Uncomment this before commiting to git
 
 
 # ---------------------------------------------------------------
@@ -15,6 +15,6 @@ gemspec  # Uncomment this before commiting to git
 # Comment the below lines while you are committing to github
 # ---------------------------------------------------------------
 
-# gem "tale" 
-# gem 'wdm', '>= 0.1.0' if Gem.win_platform? 
-# gem "webrick"
+gem "tale" 
+gem 'wdm', '>= 0.1.0' if Gem.win_platform? 
+gem "webrick"
