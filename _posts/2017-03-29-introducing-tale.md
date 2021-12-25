@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing Tale"
-author: "Chester"
+author: "Vijay"
 comments: true
 tags: Tale
 excerpt_separator: <!--more-->

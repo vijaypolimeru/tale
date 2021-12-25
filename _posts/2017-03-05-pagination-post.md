@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pagination Post"
-author: "Chester"
+author: "Vijay"
 tags: Tale
 ---
 
